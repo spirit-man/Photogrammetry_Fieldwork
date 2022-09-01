@@ -5,20 +5,6 @@ Photogrammetry fieldwork course in 2022, junior.
 │  摄影测量学实习任务书（测绘）12期实验教改2019级应用.pdf
 │  摄影测量实习2022年（19级）.pdf
 │  摄影测量实习报告样式2019级.pdf
-│  
-├─同济校园2020年航摄像片
-│      2014同济校本部.jpg
-│      camera
-│      shanghaishi_20200204_041~587_RGB.tif
-│      shanghaishi_20200204_041~588_RGB.psd
-│      shanghaishi_20200204_041~588_RGB.tif
-│      shanghaishi_20200204_041~588_RGB_marked.png
-│      shanghaishi_20200204_041~589_RGB.tif
-│      shanghaishi_20200204_041~590_RGB.tif
-│      变化检测.psd
-│      同济校本部调绘底图.tif
-│      同济校本部调绘底图.tif.aux.xml
-│      同济校本部调绘底图.tif.ovr
 │      
 └─摄影测量实习成果
     │  摄影测量实习报告.docx
